@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hatem El-Arby — a passionate Software Engineer and Full Stack Developer from Egypt.<br>🎓 I graduated from the British University in Egypt, ranked among the top 10 students over four years.<br>💻 I specialize in the MERN stack and enjoy integrating AI into web applications.<br>🧑‍💻 I'm currently working as a freelance Software Engineer, building scalable, real-world solutions for clients.<br>🚀 Always eager to learn, collaborate, and create impactful software.
+👋 Hi, I’m Hatem ElAraby — a passionate Software Engineer and Full Stack Developer from Egypt.<br>🎓 I graduated from the British University in Egypt, ranked among the top 10 students over four years.<br>💻 I specialize in the MERN stack and enjoy integrating AI into web applications.<br>🧑‍💻 I'm currently working as a freelance Software Engineer, building scalable, real-world solutions for clients.<br>🚀 Always eager to learn, collaborate, and create impactful software.
 
 
 ## 🌐 Socials:
